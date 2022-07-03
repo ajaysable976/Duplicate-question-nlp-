@@ -16,7 +16,7 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 pip install -r requirements.txt
 ```
 
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+[![](screencapture-quoras-herokuapp-2022-07-03-12_41_29.png)](https://heroku.com)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
